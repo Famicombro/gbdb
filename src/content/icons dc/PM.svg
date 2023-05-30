@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="16.632mm" height="4.4111mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 76.33 20.24"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:#A30005;stroke-width:2.77;stroke-miterlimit:22.9256}
+    .str1 {stroke:black;stroke-width:2.77;stroke-miterlimit:22.9256}
+    .str3 {stroke:#A30005;stroke-width:2.77;stroke-miterlimit:22.9256}
+    .str4 {stroke:black;stroke-width:2.77;stroke-miterlimit:22.9256}
+    .str0 {stroke:#A30005;stroke-width:0.07;stroke-miterlimit:22.9256}
+    .fil2 {fill:none}
+    .fil0 {fill:none;fill-rule:nonzero}
+    .fil3 {fill:black}
+    .fil1 {fill:#A30005;fill-rule:nonzero}
+    .fil4 {fill:black;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2093595195936">
+   <g>
+    <path class="fil0 str0" d="M38.17 0.03c2.79,0 5.31,1.13 7.13,2.95l-1.96 1.96c-1.32,-1.32 -3.15,-2.14 -5.17,-2.14 -2.02,0 -3.85,0.82 -5.17,2.14 -1.32,1.32 -2.14,3.15 -2.14,5.17 0,2.02 0.82,3.85 2.14,5.17 1.32,1.32 3.15,2.14 5.17,2.14 2.02,0 3.85,-0.82 5.17,-2.14l1.96 1.96c-1.83,1.83 -4.35,2.95 -7.13,2.95 -2.79,0 -5.31,-1.13 -7.13,-2.95 -1.83,-1.83 -2.95,-4.35 -2.95,-7.13 0,-2.79 1.13,-5.31 2.95,-7.13 1.83,-1.83 4.35,-2.95 7.13,-2.95z"/>
+    <path id="1" class="fil1" d="M38.17 0.03c2.79,0 5.31,1.13 7.13,2.95l-1.96 1.96c-1.32,-1.32 -3.15,-2.14 -5.17,-2.14 -2.02,0 -3.85,0.82 -5.17,2.14 -1.32,1.32 -2.14,3.15 -2.14,5.17 0,2.02 0.82,3.85 2.14,5.17 1.32,1.32 3.15,2.14 5.17,2.14 2.02,0 3.85,-0.82 5.17,-2.14l1.96 1.96c-1.83,1.83 -4.35,2.95 -7.13,2.95 -2.79,0 -5.31,-1.13 -7.13,-2.95 -1.83,-1.83 -2.95,-4.35 -2.95,-7.13 0,-2.79 1.13,-5.31 2.95,-7.13 1.83,-1.83 4.35,-2.95 7.13,-2.95z"/>
+   </g>
+   <g>
+    <path class="fil2 str1" d="M66.24 1.42c4.81,0 8.7,3.9 8.7,8.7 0,4.81 -3.9,8.7 -8.7,8.7 -4.81,0 -8.7,-3.9 -8.7,-8.7 0,-4.81 3.9,-8.7 8.7,-8.7z"/>
+   </g>
+   <g>
+    <path class="fil2 str2" d="M10.09 1.42c4.81,0 8.7,3.9 8.7,8.7 0,4.81 -3.9,8.7 -8.7,8.7 -4.81,0 -8.7,-3.9 -8.7,-8.7 0,-4.81 3.9,-8.7 8.7,-8.7z"/>
+   </g>
+   <circle class="fil3" cx="38.17" cy="10.12" r="3.57"/>
+   <g>
+    <line class="fil2 str3" x1="18.79" y1="10.12" x2="29.46" y2= "10.12" />
+   </g>
+   <g>
+    <line class="fil2 str4" x1="38.17" y1="10.12" x2="57.54" y2= "10.12" />
+   </g>
+   <g>
+    <polygon class="fil4" points="70.54,11.52 61.95,11.52 61.95,8.73 70.54,8.73 "/>
+   </g>
+   <g>
+    <polygon class="fil1" points="8.69,14.42 8.69,5.83 11.48,5.83 11.48,14.42 "/>
+   </g>
+   <g>
+    <polygon class="fil1" points="14.38,11.52 5.79,11.52 5.79,8.73 14.38,8.73 "/>
+   </g>
+  </g>
+ </g>
+</svg>
