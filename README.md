@@ -1,0 +1,3 @@
+# GBDB
+
+Game Boy DataBase.
