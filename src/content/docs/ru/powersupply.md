@@ -193,7 +193,7 @@
 | PSP 1000                 |        | PSP-100   | 100-240V AC 50-60Hz | 5V DC 2A   | ![Центр плюс](https://github.com/Famicombro/gbdb/blob/1430eae673607758d583ae27265c81511edccaf1/src/content/icons%20dc/MP.svg) | 4 / 1,75 |
 | PSP Slim and lite (2000) |        |           | 100-240V AC 50-60Hz | 5V DC 2A   | ![Центр плюс](https://github.com/Famicombro/gbdb/blob/1430eae673607758d583ae27265c81511edccaf1/src/content/icons%20dc/MP.svg) | 4 / 1,75 |
 | PSP Bright (3000)        |        |           | 100-240V AC 50-60Hz | 5V DC 2A   | ![Центр плюс](https://github.com/Famicombro/gbdb/blob/1430eae673607758d583ae27265c81511edccaf1/src/content/icons%20dc/MP.svg) | 4 / 1,75 |
-| PSP GO (N1000)           |        | PSP N100  | 100-240V AC 50-60Hz | 5V DC 1,5A | ![](https://github.com/Famicombro/gbdb/blob/1430eae673607758d583ae27265c81511edccaf1/src/content/icons%20dc/PSP GO.svg) |          |
+| PSP GO (N1000)           |        | PSP N100  | 100-240V AC 50-60Hz | 5V DC 1,5A | ![](https://github.com/Famicombro/gbdb/blob/851b7eefe645a854d6376d8e4d37f908f3ef6b86/src/content/icons%20dc/PSP%20GO.svg) |          |
 | PSP street (E1000)       |        | PSP-384   | 100-240V AC 50-60Hz | 5V DC 2A   | ![Центр плюс](https://github.com/Famicombro/gbdb/blob/1430eae673607758d583ae27265c81511edccaf1/src/content/icons%20dc/MP.svg) | 4 / 1,75 |
 
 
@@ -222,9 +222,9 @@
 | PC Engine mini               | :jp:   | —          | AC 100-240V 50-60Hz 0,2A | DC 5V 1,5A     | USB                                                          | MicroUSB  |
 | PC Engine Core Grafx Mini    | :eu:   | —          | AC 100-240V 50-60Hz 0,2A | DC 5V 1,5A     | USB                                                          | MicroUSB  |
 | TurboGrafx-16 Mini           | :us:   | —          | AC 100-240V 50-60Hz 0,2A | DC 5V 1,5A     | USB                                                          | MicroUSB  |
-| Duo Battery Pack             | :jp:   | PI-AD14    | AC 100V 50-60Hz 20VA     | DC 12V 770mA   | ![](https://github.com/Famicombro/gbdb/blob/1430eae673607758d583ae27265c81511edccaf1/src/content/icons%20dc/Duo Battery Pack.svg) | —         |
+| Duo Battery Pack             | :jp:   | PI-AD14    | AC 100V 50-60Hz 20VA     | DC 12V 770mA   | ![](https://github.com/Famicombro/gbdb/blob/851b7eefe645a854d6376d8e4d37f908f3ef6b86/src/content/icons%20dc/Duo%20Battery%20Pack.svg) | —         |
 | Duo Monitor                  | :jp:   | PAD-126    | AC 100V 50-60Hz 20VA     | DC 10,5V 750mA | ![Центр плюс](https://github.com/Famicombro/gbdb/blob/1430eae673607758d583ae27265c81511edccaf1/src/content/icons%20dc/MP.svg) | 3,5/1,35  |
-| PC Engine Print Booster      | :jp:   | PAD-111    | AC 100V 50-60Hz 23VA     | DC 12V 1A      | ![](https://github.com/Famicombro/gbdb/blob/1430eae673607758d583ae27265c81511edccaf1/src/content/icons%20dc/PC Engine Print Booster.svg) | —         |
+| PC Engine Print Booster      | :jp:   | PAD-111    | AC 100V 50-60Hz 23VA     | DC 12V 1A      | ![](https://github.com/Famicombro/gbdb/blob/851b7eefe645a854d6376d8e4d37f908f3ef6b86/src/content/icons%20dc/PC%20Engine%20Print%20Booster.svg) | —         |
 | PC Engine Virtual Cushion    | :jp:   | PAD-105    | AC 100V 50-60Hz 12VA     | DC 9V 650mA    | ![центр минус](https://github.com/Famicombro/gbdb/blob/1430eae673607758d583ae27265c81511edccaf1/src/content/icons%20dc/PM.svg) | 5,5 / 2,1 |
 
 
@@ -270,10 +270,10 @@
 | NEO GEO AES (NEO-AES)     | :us:       | PRO-POW-UL         | 120V AC 60Hz 22W                | 5V DC 3A           | ![центр минус](https://github.com/Famicombro/gbdb/blob/1430eae673607758d583ae27265c81511edccaf1/src/content/icons%20dc/PM.svg) | 5.5 / 2.1     | не используйте 10В блок питания!                             |
 | NEO GEO AES (NEO-POWER-0) | 🇯🇵         | NEO-POW 3          | 100V AC 50-60Hz                 | 10V DC 1000mA      | ![центр минус](https://github.com/Famicombro/gbdb/blob/1430eae673607758d583ae27265c81511edccaf1/src/content/icons%20dc/PM.svg) | 5.5 / 2.1     | ?                                                            |
 | NEO GEO AES (NEO-POWER-0) | 🇯🇵         | NEO-POW 3          | 100V AC 50-60Hz                 | 11V DC 700mA       | ![центр минус](https://github.com/Famicombro/gbdb/blob/1430eae673607758d583ae27265c81511edccaf1/src/content/icons%20dc/PM.svg) | 5.5 / 2.1     |                                                              |
-| Neo Geo CD                | 🇯🇵         | POWCD-J            | 100V AC 50/60Hz 55VA            | 5V 2A / 10V 1A     | ![](https://github.com/Famicombro/gbdb/blob/1430eae673607758d583ae27265c81511edccaf1/src/content/icons%20dc/neogeo CD.svg) | нестандартный | 3 pin коннектор, сверху (у скошенных граней) +5V, под ним слева GND, справа +10V. |
-| Neo Geo CDZ               | 🇯🇵         | POWCD-J2           | 110 AC 50/60Hz 38VA             | 5V 1A / 10V 1A     | ![](https://github.com/Famicombro/gbdb/blob/1430eae673607758d583ae27265c81511edccaf1/src/content/icons%20dc/neogeo CDZ.svg) | нестандартный | 3 pin коннектор, сверху (у скошенных граней) +5V, под ним слева GND, справа +10V. |
-| Neo Geo CD                | 🇪🇺         | POWCD-E            | 110-240V AC 50/60Hz 0,45A-0,25A | 5V 2A / 10V 1A     | ![](https://github.com/Famicombro/gbdb/blob/1430eae673607758d583ae27265c81511edccaf1/src/content/icons%20dc/neogeo CD.svg) | нестандартный | 3 pin коннектор, сверху (у скошенных граней) +5V, под ним слева GND, справа +10V. |
-| Neo Geo CD                | 🇪🇺         | POWCD-X            | 110-240V AC 50/60Hz 28W         | 5V 2A / 10V 1A     | ![](https://github.com/Famicombro/gbdb/blob/1430eae673607758d583ae27265c81511edccaf1/src/content/icons%20dc/neogeo CD.svg) | нестандартный | 3 pin коннектор, сверху (у скошенных граней) +5V, под ним слева GND, справа +10V. |
+| Neo Geo CD                | 🇯🇵         | POWCD-J            | 100V AC 50/60Hz 55VA            | 5V 2A / 10V 1A     | ![](https://github.com/Famicombro/gbdb/blob/851b7eefe645a854d6376d8e4d37f908f3ef6b86/src/content/icons%20dc/neogeo%20CD.svg) | нестандартный | 3 pin коннектор, сверху (у скошенных граней) +5V, под ним слева GND, справа +10V. |
+| Neo Geo CDZ               | 🇯🇵         | POWCD-J2           | 110 AC 50/60Hz 38VA             | 5V 1A / 10V 1A     | ![](https://github.com/Famicombro/gbdb/blob/851b7eefe645a854d6376d8e4d37f908f3ef6b86/src/content/icons%20dc/neogeo%20CDZ.svg) | нестандартный | 3 pin коннектор, сверху (у скошенных граней) +5V, под ним слева GND, справа +10V. |
+| Neo Geo CD                | 🇪🇺         | POWCD-E            | 110-240V AC 50/60Hz 0,45A-0,25A | 5V 2A / 10V 1A     | ![](https://github.com/Famicombro/gbdb/blob/851b7eefe645a854d6376d8e4d37f908f3ef6b86/src/content/icons%20dc/neogeo%20CD.svg) | нестандартный | 3 pin коннектор, сверху (у скошенных граней) +5V, под ним слева GND, справа +10V. |
+| Neo Geo CD                | 🇪🇺         | POWCD-X            | 110-240V AC 50/60Hz 28W         | 5V 2A / 10V 1A     | ![](https://github.com/Famicombro/gbdb/blob/851b7eefe645a854d6376d8e4d37f908f3ef6b86/src/content/icons%20dc/neogeo%20CD.svg) | нестандартный | 3 pin коннектор, сверху (у скошенных граней) +5V, под ним слева GND, справа +10V. |
 
 
 
@@ -289,7 +289,7 @@
 
 | Консоль      | Регион | Модель БП | Входные параметры    | Выходные параметры  | полярность     | Разъем (мм)                                                  | Примечание                                          |
 | ------------ | ------ | --------- | -------------------- | ------------------- | -------------- | ------------------------------------------------------------ | --------------------------------------------------- |
-| CPS2 Changer | 🇯🇵     | CPS-002A  | 100V AC 50/60Hz 72VA | 5V DC 4A, 12V DC 1A | См. примечание | ![](https://github.com/Famicombro/gbdb/blob/1430eae673607758d583ae27265c81511edccaf1/src/content/icons%20dc/CPS2 Changer.svg) | 4 pin din коннектор. 1 +12V; 2 земля; 3 +5V; 4 +5V. |
+| CPS2 Changer | 🇯🇵     | CPS-002A  | 100V AC 50/60Hz 72VA | 5V DC 4A, 12V DC 1A | См. примечание | ![](https://github.com/Famicombro/gbdb/blob/851b7eefe645a854d6376d8e4d37f908f3ef6b86/src/content/icons%20dc/CPS2%20Changer.svg) | 4 pin din коннектор. 1 +12V; 2 земля; 3 +5V; 4 +5V. |
 
 
 
@@ -297,7 +297,7 @@
 
 | Консоль    | Регион | Модель БП | Входные параметры      | Выходные параметры        | полярность     | Разъем (мм)                                                  | Примечание                                      |
 | ---------- | ------ | --------- | ---------------------- | ------------------------- | -------------- | ------------------------------------------------------------ | ----------------------------------------------- |
-| Amiga CD32 | 🇪🇺     | 313375-02 | 220v AC 50Hz 250mA 17W | 5V DC 2.2A / 12v DC 500mA | См. примечание | ![4 pin din коннектор](https://github.com/Famicombro/gbdb/blob/1430eae673607758d583ae27265c81511edccaf1/src/content/icons%20dc/Amiga CD32.svg) | 4Pin DIN коннектор. 1 +5V; 2 +12V; 3 GND; 4 NC; |
+| Amiga CD32 | 🇪🇺     | 313375-02 | 220v AC 50Hz 250mA 17W | 5V DC 2.2A / 12v DC 500mA | См. примечание | ![4 pin din коннектор](https://github.com/Famicombro/gbdb/blob/851b7eefe645a854d6376d8e4d37f908f3ef6b86/src/content/icons%20dc/Amiga%20CD32.svg) | 4Pin DIN коннектор. 1 +5V; 2 +12V; 3 GND; 4 NC; |
 
 ## Tiger Telematics
 
@@ -311,4 +311,4 @@
 
 | Консоль  | Регион | Модель БП  | Входные параметры         | Выходные параметры        | полярность                                                   | Разъем (мм) | Примечание     |
 | -------- | ------ | ---------- | ------------------------- | ------------------------- | ------------------------------------------------------------ | ----------- | -------------- |
-| CD-i 450 | World  | 20PS301/00 | 100-240V AC 50/60Hz 100mA | +5V DC 3.3A / -5V DC 0.25 | ![](https://github.com/Famicombro/gbdb/blob/1430eae673607758d583ae27265c81511edccaf1/src/content/icons%20dc/CD-i 450.svg) | RJ45        | RJ45 коннектор |
+| CD-i 450 | World  | 20PS301/00 | 100-240V AC 50/60Hz 100mA | +5V DC 3.3A / -5V DC 0.25 | ![](https://github.com/Famicombro/gbdb/blob/851b7eefe645a854d6376d8e4d37f908f3ef6b86/src/content/icons%20dc/CD-i%20450.svg) | RJ45        | RJ45 коннектор |
