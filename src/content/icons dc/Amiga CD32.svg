@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="19.2217mm" height="12.5865mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 76.92 50.37"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:2.4;stroke-miterlimit:22.9256}
+    .str2 {stroke:#A30005;stroke-width:2.41;stroke-miterlimit:22.9256}
+    .str3 {stroke:black;stroke-width:2.41;stroke-miterlimit:22.9256}
+    .str1 {stroke:#A30005;stroke-width:2.41;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+    .fil3 {fill:#A30005}
+    .fil2 {fill:black}
+    .fil4 {fill:black}
+    .fil1 {fill:#A30005;fill-rule:nonzero}
+    .fil5 {fill:#A30005;fill-rule:nonzero}
+    .fil6 {fill:black;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_807869552">
+   <path class="fil0 str0" d="M39.87 1.45c9.46,2 16.57,10.4 16.57,20.46 0,11.55 -9.36,20.91 -20.91,20.91 -11.55,0 -20.91,-9.36 -20.91,-20.91 0,-10.06 7.1,-18.46 16.57,-20.46 0.23,2.2 2.09,3.91 4.35,3.91 2.26,0 4.12,-1.72 4.35,-3.91z"/>
+   <g>
+    <path class="fil0 str1" d="M68.15 23.09c4.18,0 7.57,-3.39 7.57,-7.57 0,-4.18 -3.39,-7.57 -7.57,-7.57 -4.18,0 -7.57,3.39 -7.57,7.57 0,4.18 3.39,7.57 7.57,7.57z"/>
+   </g>
+   <g>
+    <polygon class="fil1" points="60.58,14.31 60.58,16.73 45.21,16.73 45.21,14.31 "/>
+   </g>
+   <g>
+    <polygon class="fil1" points="71.88,14.31 71.88,16.73 64.42,16.73 64.42,14.31 "/>
+   </g>
+   <g>
+    <polygon class="fil1" points="69.36,11.79 69.36,19.26 66.94,19.26 66.94,11.79 "/>
+   </g>
+   <circle class="fil2" transform="matrix(0.02983 0.00799292 0.00799292 -0.02983 28.6382 30.1272)" r="100.59"/>
+   <circle class="fil3" transform="matrix(0.02983 0.00799292 0.00799292 -0.02983 42.4067 30.1272)" r="100.59"/>
+   <circle class="fil4" transform="matrix(0.02983 0.00799292 0.00799292 -0.02983 25.837 15.5215)" r="100.59"/>
+   <circle class="fil3" transform="matrix(0.02983 0.00799292 0.00799292 -0.02983 45.2079 15.5215)" r="100.59"/>
+   <g>
+    <path class="fil0 str2" d="M58.49 48.15c3.62,2.09 8.25,0.85 10.34,-2.77 2.09,-3.62 0.85,-8.25 -2.77,-10.34 -3.62,-2.09 -8.25,-0.85 -10.34,2.77 -2.09,3.62 -0.85,8.25 2.77,10.34z"/>
+   </g>
+   <g>
+    <polygon class="fil5" points="56.33,36.77 55.12,38.86 41.8,31.17 43.01,29.08 "/>
+   </g>
+   <g>
+    <polygon class="fil5" points="66.01,40.39 66.01,42.81 58.54,42.81 58.54,40.39 "/>
+   </g>
+   <g>
+    <polygon class="fil1" points="61.06,37.86 63.49,37.86 63.49,45.33 61.06,45.33 "/>
+   </g>
+   <g>
+    <path class="fil0 str3" d="M12.55 48.15c-3.62,2.09 -8.25,0.85 -10.34,-2.77 -2.09,-3.62 -0.85,-8.25 2.77,-10.34 3.62,-2.09 8.25,-0.85 10.34,2.77 2.09,3.62 0.85,8.25 -2.77,10.34z"/>
+   </g>
+   <g>
+    <polygon class="fil6" points="14.72,36.77 28.03,29.08 29.24,31.17 15.93,38.86 "/>
+   </g>
+   <g>
+    <polygon class="fil6" points="5.04,40.39 12.5,40.39 12.5,42.81 5.04,42.81 "/>
+   </g>
+  </g>
+ </g>
+</svg>
